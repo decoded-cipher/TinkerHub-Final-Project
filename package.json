@@ -1,0 +1,22 @@
+{
+  "name": "etrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decoded-cipher/TinkerHub-Final-Project.git"
+  },
+  "author": "Decoded_Cipher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decoded-cipher/TinkerHub-Final-Project/issues"
+  },
+  "homepage": "https://github.com/decoded-cipher/TinkerHub-Final-Project#readme",
+  "dependencies": {
+    "firebase-tools": "^8.0.0"
+  }
+}
